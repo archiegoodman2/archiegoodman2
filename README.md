@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @archiegoodman2
-- 👀 I’m interested in ... Cybersecurity, american football, chess and fitness!
-- 🌱 I’m currently learning ... Python! And afterwards, I aim to start learning Java too.
-- 💞️ I’m looking to collaborate on ... A huge variety of python projects.
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Cybersecurity, surfing, brazilian jiu-jitsu, and fitness!
+- 🌱 I’m currently learning ... Python, Javascript, C# and hopefully java and C++ soon
+- 💞️ I’m looking to collaborate on ... A huge variety of python and javascript projects, notably around cybersecurity.
+- 📫 How to reach me ... 
 
 <!---
 archiegoodman2/archiegoodman2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
