@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archiegoodman2
 - 👀 I’m interested in ... Cybersecurity, surfing, brazilian jiu-jitsu, and fitness!
-- 🌱 I’m currently learning ... C#, Javascript and Python, with Rust and C++ soon
+- 🌱 I’m currently learning ... C#, Javascript, Java and Python, with Rust and C++ soon
 - 💞️ I’m looking to collaborate on ... A huge variety of python and javascript projects, notably around cybersecurity.
 - 📫 How to reach me ... 
 
