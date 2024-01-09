@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archiegoodman2
-- 👀 I’m interested in ... Cybersecurity, fitness, brazilian jiu-jitsu and surfing!
+- 👀 I’m interested in ... Cybersecurity, fitness, brazilian jiu-jitsu and surfing
 - 🌱 I’m currently learning ... Python and Javascript with lower level languages to follow soon
 - 💞️ I’m looking to collaborate on ... A variety of python and javascript projects
 - 📫 How to reach me ... https://www.linkedin.com/in/archie-goodman-a0bb4b1b7/ 
