@@ -6,12 +6,11 @@ Short Term
   2. Basic Convnet for image recognition
   3. Convnet using pretrained (frozen) layers and unfreezing + retraining the last few layers
   4. Visualizing/interpreting outputs of Convnet layers during image recognition tasks
-Medium Term
   6. Time series Processing with 1DCNN (optional)
   7. Time series Processing with LSTM (including dropout)
   8. Autoencoder to clear data noise, then perhaps variational autoencoder
   9. GAN for synthetic data
-  10. Transformer work - make Large Transaction model??
+  10.** Transformer work - make Large Transaction model??**
 
 
   
