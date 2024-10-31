@@ -10,7 +10,7 @@ Short Term
   7. Time series Processing with LSTM (including dropout)
   8. Autoencoder to clear data noise, then perhaps variational autoencoder
   9. GAN for synthetic data
-  10.** Transformer work - make Large Transaction model??**
+  10. Transformer work - make Large Transaction model??
 
 
   
