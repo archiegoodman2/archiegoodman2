@@ -1,7 +1,6 @@
 👋 Hi, I’m @archiegoodman2
 I'm currently working as a Developer/Junior Data Scientist at a large bank, and these are my projects for personal development. These are my goals:
 
-Short Term 
   1. Basic Feed Forward Neural Network binary and multiclass classifier on both clean datasets and noisy ones
   2. Basic Convnet for image recognition
   3. Convnet using pretrained (frozen) layers and unfreezing + retraining the last few layers
