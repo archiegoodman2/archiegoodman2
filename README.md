@@ -5,6 +5,9 @@ I'm currently working as a Developer/Junior Data Scientist at a large bank, and 
   2. Autoencoder to reduce dimensionality of input data
   3. Transformer network for time series data classification (2013 European fraud dataset)
 
+Ideas for future projects:
+  1. upgrade autoencoder to variational autoencoder then potentially GAN
+  2. ConvNet for image recognition - visualize layers with gradient ascent
 
   
   📫 How to reach me ... https://www.linkedin.com/in/archie-goodman-a0bb4b1b7/ 
